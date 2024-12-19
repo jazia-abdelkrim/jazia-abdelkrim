@@ -1,4 +1,4 @@
-# 👩‍💻 Hello, World! I'm [Your Name] 🌟
+# 👩‍💻 Hello, World! I'm Jazia 🌟
 
 Welcome to my corner of the digital universe! 🚀 I'm a **Fresh Woman Tech Maker** with a passion for solving problems, building innovative solutions, and continuously learning in the ever-evolving world of technology.
 
