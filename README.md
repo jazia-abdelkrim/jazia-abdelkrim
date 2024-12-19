@@ -29,17 +29,6 @@ Here are some tools and technologies I love working with:
 
 ---
 
-## 🌟 Projects
-Here are a few highlights from my GitHub repositories:
-
-- **[Project 1 Name](#)**: A brief description of the project.
-- **[Project 2 Name](#)**: A brief description of the project.
-- **[Project 3 Name](#)**: A brief description of the project.
-
-Check out my pinned repositories below for more! 👇
-
----
-
 ## 💖 Let's Collaborate!
 I'm always open to collaborating on exciting projects, contributing to open source, or learning something new. Feel free to reach out!
 
