@@ -22,7 +22,7 @@ Here are some tools and technologies I love working with:
 ---
 
 ## 🔗 Let's Connect!
-- 💼 LinkedIn: [https://dz.linkedin.com/in/jazia-abdelkrim-ab143b224](https://www.linkedin.com/in/j-abdelkrim/)
+- 💼 LinkedIn: https://www.linkedin.com/in/j-abdelkrim/
 - 📧 Academic Email: aj.abdelkrim@ensta.edu.dz
 
 ---
